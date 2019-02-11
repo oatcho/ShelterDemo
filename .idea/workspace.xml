@@ -1,85 +1,197 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bdda05c-4f2f-472b-a74c-6ff44cda759b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/AnimalProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Shelter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessControl/src/com/company/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AccessControl/src/com/company/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator" beforeDir="false" afterPath="$PROJECT_DIR$/../AreaCalculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayPractice" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayPractice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarProgram" beforeDir="false" afterPath="$PROJECT_DIR$/../CarProgram" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExceptionHandling/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/src/com/company/Attendee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ExceptionHandling/src/com/company/Attendee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/src/com/company/AttendeeManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ExceptionHandling/src/com/company/AttendeeManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance Practice/src/com/company/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance Practice/src/com/company/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance Practice/src/com/company/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance Practice/src/com/company/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library Exercise Refactored 2/src/com/company/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Library Exercise Refactored 2/src/com/company/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library Exercise Refactored 2/src/com/company/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Library Exercise Refactored 2/src/com/company/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library Exercise Refactored/src/com/company/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Library Exercise Refactored/src/com/company/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library Exercise Refactored/src/com/company/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Library Exercise Refactored/src/com/company/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Make A Shape" beforeDir="false" afterPath="$PROJECT_DIR$/../Make A Shape" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ShelterDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringPractice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringPractice/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringPractice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringPractice/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StringPractice/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Student Inheritance/src/com/company/BandMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Student Inheritance/src/com/company/BandMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Student Inheritance/src/com/company/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Student Inheritance/src/com/company/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WelcomeToTheZoo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WelcomeToTheZoo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WelcomeToTheZoo/src/com/company/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WelcomeToTheZoo/src/com/company/Zoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adventureGame" beforeDir="false" afterPath="$PROJECT_DIR$/../adventureGame" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise8.0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise8.0/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise8.0/out/production/exercise8.0/com/company/Sandwich.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise8.0/out/production/exercise8.0/com/company/Sandwich.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise8.0/out/production/exercise8.0/com/company/SandwichMaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise8.0/out/production/exercise8.0/com/company/SandwichMaker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise8.0/src/com/company/Sandwich.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise8.0/src/com/company/Sandwich.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise8.0/src/com/company/SandwichMaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise8.0/src/com/company/SandwichMaker.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/ShelterDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
-              <folding />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/AnimalProfile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+              <folding>
+                <element signature="e#734#735#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
+                <element signature="e#511#512#0" expanded="true" />
+                <element signature="e#543#544#0" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
+                <element signature="e#673#674#0" expanded="true" />
+                <element signature="e#721#722#0" expanded="true" />
+                <element signature="e#753#754#0" expanded="true" />
+                <element signature="e#781#782#0" expanded="true" />
+                <element signature="e#823#824#0" expanded="true" />
+                <element signature="e#857#858#0" expanded="true" />
+                <element signature="e#889#890#0" expanded="true" />
+                <element signature="e#917#918#0" expanded="true" />
+                <element signature="e#959#960#0" expanded="true" />
+                <element signature="e#993#994#0" expanded="true" />
+                <element signature="e#1020#1021#0" expanded="true" />
+                <element signature="e#1046#1047#0" expanded="true" />
+                <element signature="e#1081#1082#0" expanded="true" />
+                <element signature="e#1111#1112#0" expanded="true" />
+                <element signature="e#1149#1150#0" expanded="true" />
+                <element signature="e#1183#1184#0" expanded="true" />
+                <element signature="e#1237#1238#0" expanded="true" />
+                <element signature="e#1283#1284#0" expanded="true" />
+                <element signature="e#1316#1317#0" expanded="true" />
+                <element signature="e#1345#1346#0" expanded="true" />
+                <element signature="e#1389#1390#0" expanded="true" />
+                <element signature="e#1425#1426#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Shelter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/AnimalProfile.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="721" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="ShelterDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShelterDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShelterDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShelterDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShelterDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShelterDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549919278700" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.company" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.company.ShelterDemo" />
       <module name="ShelterDemo" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -88,5 +200,115 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bdda05c-4f2f-472b-a74c-6ff44cda759b" name="Default Changelist" comment="" />
+      <created>1549918716970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549918716970</updated>
+      <workItem from="1549918720341" duration="829000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="829000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/ShelterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Shelter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/AnimalProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <folding>
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#993#994#0" expanded="true" />
+            <element signature="e#1020#1021#0" expanded="true" />
+            <element signature="e#1046#1047#0" expanded="true" />
+            <element signature="e#1081#1082#0" expanded="true" />
+            <element signature="e#1111#1112#0" expanded="true" />
+            <element signature="e#1149#1150#0" expanded="true" />
+            <element signature="e#1183#1184#0" expanded="true" />
+            <element signature="e#1237#1238#0" expanded="true" />
+            <element signature="e#1283#1284#0" expanded="true" />
+            <element signature="e#1316#1317#0" expanded="true" />
+            <element signature="e#1345#1346#0" expanded="true" />
+            <element signature="e#1389#1390#0" expanded="true" />
+            <element signature="e#1425#1426#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
