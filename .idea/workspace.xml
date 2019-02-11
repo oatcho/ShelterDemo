@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bdda05c-4f2f-472b-a74c-6ff44cda759b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/AnimalProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Shelter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/UserMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AccessControl/src/com/company/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AccessControl/src/com/company/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AreaCalculator" beforeDir="false" afterPath="$PROJECT_DIR$/../AreaCalculator" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArrayPractice" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayPractice" afterDir="false" />
@@ -23,9 +21,8 @@
       <change beforePath="$PROJECT_DIR$/../Library Exercise Refactored/src/com/company/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Library Exercise Refactored/src/com/company/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Library Exercise Refactored/src/com/company/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Library Exercise Refactored/src/com/company/Library.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Make A Shape" beforeDir="false" afterPath="$PROJECT_DIR$/../Make A Shape" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ShelterDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/AnimalProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/AnimalProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Shelter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Shelter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../StringPractice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringPractice/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../StringPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringPractice/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../StringPractice/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StringPractice/src/com/company/Main.java" afterDir="false" />
@@ -58,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/AnimalProfile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+            <state relative-caret-position="314">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
               <folding>
                 <element signature="e#734#735#0" expanded="true" />
                 <element signature="e#373#374#0" expanded="true" />
@@ -103,8 +100,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Shelter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            <state relative-caret-position="195">
+              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+              <folding>
+                <element signature="e#320#321#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#542#543#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/UserMenu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -118,6 +133,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -125,6 +145,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/company/AnimalProfile.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Shelter.java" />
+        <option value="$PROJECT_DIR$/src/com/company/UserMenu.java" />
       </list>
     </option>
   </component>
@@ -170,7 +192,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549919278700" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549920684039" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -200,6 +222,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -211,12 +238,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549918716970</updated>
-      <workItem from="1549918720341" duration="829000" />
+      <workItem from="1549918720341" duration="1702000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="829000" />
+    <option name="totallyTimeSpent" value="1702000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -263,17 +290,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Shelter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/AnimalProfile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        <state relative-caret-position="314">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="e#734#735#0" expanded="true" />
             <element signature="e#373#374#0" expanded="true" />
@@ -307,6 +327,29 @@
             <element signature="e#1389#1390#0" expanded="true" />
             <element signature="e#1425#1426#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Shelter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding>
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/UserMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
         </state>
       </provider>
     </entry>

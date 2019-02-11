@@ -10,7 +10,7 @@ public class AnimalProfile {
     private String arrivalDate;
     private String status;
 
-    public AnimalProfile (int idNumber, String name, String typeOfAnimal, String breed, String color, int age, String arrivalDate, String status){
+    public AnimalProfile(int idNumber, String name, String typeOfAnimal, String breed, String color, int age, String arrivalDate, String status) {
         this.idNumber = idNumber;
         this.name = name;
         this.typeOfAnimal = typeOfAnimal;
