@@ -7,6 +7,11 @@ public class ShelterDemo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         UserMenu userMenu = new UserMenu();
+        AnimalProfileCreator animalProfileCreator = new AnimalProfileCreator();
+        Shelter shelter = new Shelter(150000);
+
+        int animalID = 1;
+
 
         final String addAnimalProfile = "1";
         final String deleteProfile = "2";
@@ -24,6 +29,9 @@ public class ShelterDemo {
 
         switch (chosenMenuOption){
             case addAnimalProfile:
+                animalProfileCreator.createNewProfile(animalID, shelter, scanner);
+
+                animalID++;
                 break;
             case deleteProfile:
                 break;

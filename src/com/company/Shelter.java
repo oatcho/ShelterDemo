@@ -11,6 +11,11 @@ public class Shelter {
         this.animals = new ArrayList<>();
     }
 
+    public void addAnimalProfile(AnimalProfile animalProfile){
+        animals.add(animalProfile);
+        System.out.println(animals);
+    }
+
     public double getFunds() {
         return funds;
     }
