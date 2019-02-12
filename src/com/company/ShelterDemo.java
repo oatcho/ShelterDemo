@@ -11,6 +11,7 @@ public class ShelterDemo {
         Shelter shelter = new Shelter(150000);
 
         int animalID = 1;
+        boolean continueMenu = true;
 
 
         final String addAnimalProfile = "1";
@@ -24,34 +25,42 @@ public class ShelterDemo {
         final String exit = "9";
 
 
-        userMenu.showMainMenu();
-        String chosenMenuOption = scanner.nextLine();
+        do {
+            userMenu.showMainMenu();
+            String chosenMenuOption = scanner.nextLine();
 
-        switch (chosenMenuOption){
-            case addAnimalProfile:
-                animalProfileCreator.createNewProfile(animalID, shelter, scanner);
+            switch (chosenMenuOption) {
+                case addAnimalProfile:
+                    animalProfileCreator.createNewProfile(animalID, shelter, scanner);
 
-                animalID++;
-                break;
-            case deleteProfile:
-                break;
-            case searchProfileById:
-                break;
-            case editProfileByID:
-                break;
-            case displayAllAnimals:
-                break;
-            case viewByStatus:
-                break;
-            case showSixMonthsSinceArrival:
-                break;
-            case checkExcessCapacity:
-                break;
-            case exit:
-                break;
-            default:
-                break;
+                    animalID++;
+                    break;
+                case deleteProfile:
+                    System.out.println("What is the ID of the animal you would like to remove?");
+                    int idToDelete = scanner.nextInt();
+                    scanner.nextLine();
+                    shelter.removeAnimalProfileByID(idToDelete);
+                    break;
+                case searchProfileById:
+                    break;
+                case editProfileByID:
+                    break;
+                case displayAllAnimals:
+                    break;
+                case viewByStatus:
+                    break;
+                case showSixMonthsSinceArrival:
+                    break;
+                case checkExcessCapacity:
+                    break;
+                case exit:
+                    System.out.println("Thanks for visiting the shelter!");
+                    continueMenu = false;
+                    break;
+                default:
+                    break;
+            }
+
+        }while(continueMenu);
         }
-
-    }
 }
