@@ -16,6 +16,7 @@ public class AnimalProfileCreator {
         System.out.println("How many years old is your animal?");
         int age = scanner.nextInt();
         scanner.nextLine();
+//        System.out.println("Int : " + age + " BugLine: " + bugLine + "<----");
         System.out.println("When is said animal expected to arrive?");
         String arrivalDate = scanner.nextLine();
         System.out.println("What is the adoption status of this animal?");

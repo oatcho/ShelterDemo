@@ -53,6 +53,9 @@ public class ShelterDemo {
                     shelter.displayAllAnimals();
                     break;
                 case viewByStatus:
+                    System.out.println("By what status would you like to search?");
+                    String statusSearch = scanner.nextLine();
+                    shelter.displayByStatus(statusSearch);
                     break;
                 case showSixMonthsSinceArrival:
                     break;

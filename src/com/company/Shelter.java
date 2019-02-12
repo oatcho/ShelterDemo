@@ -63,6 +63,24 @@ public class Shelter {
         }
     }
 
+    public void displayByStatus(String statusSearch){
+
+        int counter = 0;
+
+        if(animals.size() == 0) {
+            System.out.println("There are no animals in the shelter. \n");
+        } else {
+            for (AnimalProfile animalProfile : animals) {
+                if (animalProfile.getStatus().equalsIgnoreCase(statusSearch)) {
+                    animalProfile.printAnimalProfile();
+                } else if(counter == animals.size() - 1) {
+                    System.out.println("There are no animals in here by that status, bro!");
+                }
+                counter++;
+            }
+        }
+    }
+
 
     public double getFunds() {
         return funds;
