@@ -34,7 +34,7 @@
       <change beforePath="$PROJECT_DIR$/../Library Exercise Refactored/src/com/company/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Library Exercise Refactored/src/com/company/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Library Exercise Refactored/src/com/company/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Library Exercise Refactored/src/com/company/Library.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Make A Shape" beforeDir="false" afterPath="$PROJECT_DIR$/../Make A Shape" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/AnimalProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/AnimalProfile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Shelter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Shelter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/ShelterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ShelterDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../StringPractice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringPractice/.idea/vcs.xml" afterDir="false" />
@@ -60,11 +60,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/ShelterDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="352">
+              <caret line="47" column="67" selection-start-line="47" selection-start-column="67" selection-end-line="47" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -81,10 +81,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/AnimalProfile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="179">
+              <caret line="24" column="100" selection-start-line="24" selection-start-column="100" selection-end-line="24" selection-end-column="100" />
               <folding>
-                <element signature="e#734#735#0" expanded="true" />
+                <element signature="e#1013#1014#0" expanded="true" />
                 <element signature="e#373#374#0" expanded="true" />
                 <element signature="e#413#414#0" expanded="true" />
                 <element signature="e#444#445#0" expanded="true" />
@@ -120,11 +120,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Shelter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="21" column="102" selection-start-line="21" selection-start-column="102" selection-end-line="21" selection-end-column="102" />
+            <state relative-caret-position="235">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
               <folding>
                 <element signature="e#888#889#0" expanded="true" />
                 <element signature="e#916#917#0" expanded="true" />
@@ -168,12 +168,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/AnimalProfile.java" />
         <option value="$PROJECT_DIR$/src/com/company/UserMenu.java" />
         <option value="$PROJECT_DIR$/src/com/company/AnimalProfileBuilder.java" />
         <option value="$PROJECT_DIR$/src/com/company/AnimalProfileCreator.java" />
-        <option value="$PROJECT_DIR$/src/com/company/ShelterDemo.java" />
         <option value="$PROJECT_DIR$/src/com/company/Shelter.java" />
+        <option value="$PROJECT_DIR$/src/com/company/AnimalProfile.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ShelterDemo.java" />
       </list>
     </option>
   </component>
@@ -219,7 +219,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549999177933" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549999881980" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -265,12 +265,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549918716970</updated>
-      <workItem from="1549918720341" duration="9418000" />
+      <workItem from="1549918720341" duration="10097000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9418000" />
+    <option name="totallyTimeSpent" value="10097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -287,11 +287,11 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -325,19 +325,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/ShelterDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/AnimalProfile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="179">
+          <caret line="24" column="100" selection-start-line="24" selection-start-column="100" selection-end-line="24" selection-end-column="100" />
           <folding>
-            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#1013#1014#0" expanded="true" />
             <element signature="e#373#374#0" expanded="true" />
             <element signature="e#413#414#0" expanded="true" />
             <element signature="e#444#445#0" expanded="true" />
@@ -374,8 +367,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Shelter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="21" column="102" selection-start-line="21" selection-start-column="102" selection-end-line="21" selection-end-column="102" />
+        <state relative-caret-position="235">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
           <folding>
             <element signature="e#888#889#0" expanded="true" />
             <element signature="e#916#917#0" expanded="true" />
@@ -386,6 +379,13 @@
             <element signature="e#1138#1139#0" expanded="true" />
             <element signature="e#1176#1177#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/ShelterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="47" column="67" selection-start-line="47" selection-start-column="67" selection-end-line="47" selection-end-column="67" />
         </state>
       </provider>
     </entry>

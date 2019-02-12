@@ -21,6 +21,10 @@ public class AnimalProfile {
         this.status = status;
     }
 
+    public void printAnimalProfile(){
+        System.out.println("ID: " + idNumber + ", Name: " + name + ", Animal Type: " + typeOfAnimal + ", Breed: " + breed + ", Color: " + color + ", Age: " + age + ", Arrival Date: " + arrivalDate + "Adoption Status: " + status);
+    }
+
     public int getIdNumber() {
         return idNumber;
     }

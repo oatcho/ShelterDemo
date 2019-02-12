@@ -35,6 +35,24 @@ public class Shelter {
 
     }
 
+    public void searchByIdAndPrint(int animalId) {
+
+        if (animals.size() == 0) {
+            System.out.println("There are no animals in the shelter. Please add one before searching.\n");
+        } else {
+
+            for (int i = 0; i < animals.size(); i++) {
+                if (animalId == animals.get(i).getIdNumber()) {
+                    animals.get(i).printAnimalProfile();
+                } else if ((i == animals.size() - 1)) {
+                    System.out.println("There is no animal in the shelter by that ID.");
+                }
+            }
+
+        }
+
+    }
+
 
     public double getFunds() {
         return funds;

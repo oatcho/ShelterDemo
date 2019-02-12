@@ -42,6 +42,10 @@ public class ShelterDemo {
                     shelter.removeAnimalProfileByID(idToDelete);
                     break;
                 case searchProfileById:
+                    System.out.println("What is the ID of the animal you would like to look up?");
+                    int idToFindAnimalInfo = scanner.nextInt();
+                    scanner.nextLine();
+                    shelter.searchByIdAndPrint(idToFindAnimalInfo);
                     break;
                 case editProfileByID:
                     break;
