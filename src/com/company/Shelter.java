@@ -53,6 +53,16 @@ public class Shelter {
 
     }
 
+    public void displayAllAnimals() {
+        if (animals.size() == 0) {
+            System.out.println("There are no animals to display");
+        }else{
+            for (AnimalProfile animalProfile : animals) {
+                animalProfile.printAnimalProfile();
+            }
+        }
+    }
+
 
     public double getFunds() {
         return funds;

@@ -50,6 +50,7 @@ public class ShelterDemo {
                 case editProfileByID:
                     break;
                 case displayAllAnimals:
+                    shelter.displayAllAnimals();
                     break;
                 case viewByStatus:
                     break;
